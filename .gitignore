@@ -387,3 +387,4 @@ Assets/StreamingAssets/crashlytics-build.properties
 Assets/*
 !Assets/scripts
 !Assets/images
+!Assets/scenes
