@@ -47,6 +47,8 @@ start the scene, they are going to try to follow the main
 player thought the map. We need to avoid them because if
 they collide with us, we automatically lose the game.
 
+![village 2](images/enemies.gif)
+
 ## Scenes
 
 In this videogame it is really important to create a good
@@ -57,6 +59,8 @@ job of creating both of the two scenes.
 The videogame starts with this scene. The player feels
 inmersed in *the morgue*, the place where the dead body is
 placed.
+
+![morgue](images/morgue_map.png)
 
 In this scene we talk with our police workmate (chatbot), who
 explains us what has happened in the crime and what we have to do
@@ -158,6 +162,12 @@ music.
    </a>
  </h3>
 
+> Particle system sample
+![particle system](images/particles.gif)
+
+> Police interaction
+![police](images/police.gif)
+
 ## Tasks division
 To commit this project we have to conduct the following tasks:
 
@@ -165,8 +175,8 @@ To commit this project we have to conduct the following tasks:
 - [x] Story script: @CristianAbrante
 - [x] Morgue Scene ambientation: @CristianAbrante
 - [x] Village Scene ambientation: @CristianAbrante
-- [x] ChatBot implementation: @AlberTJ97
-- [x] ChatBot interaction: @AlberTJ97
+- [x] Chatbot implementation: @AlberTJ97
+- [x] Chatbot interaction: @AlberTJ97
 - [x] VR assests: @AlberTJ97
 - [x] Gamepad interaction: @AlberTJ97
 - [x] Inventory implementation: @AlberTJ97
@@ -191,8 +201,8 @@ in such a large project was really diffcult.
 Th future lines of development are:
 
 - [ ] Create better ambientation with more accurate assets.
-- [ ] Create more intelligent enemies, and different types.
 - [ ] Create a more complex story, with mores scenes and characters.
+- [ ] Create more intelligent enemies, and different types.
 
 ## Authors
 * **Alberto Jesús González Álvarez** -  [AlberTJ97](https://github.com/AlberTJ97)
